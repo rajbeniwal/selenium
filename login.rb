@@ -41,6 +41,6 @@ def run
 end
 
 run do
-   puts"Page title is #{driver.title}"
+   puts"Page title is #{driver.title}" 
 end
 
